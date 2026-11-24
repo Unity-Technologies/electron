@@ -23,7 +23,7 @@
     "mocha-multi-reporters": "^1.1.7",
     "multiparty": "^4.1.4",
     "q": "^1.5.1",
-    "send": "^0.16.2",
+    "send": "^0.19.0",
     "temp": "^0.8.3",
     "walkdir": "0.0.12",
     "winreg": "^1.2.4",
